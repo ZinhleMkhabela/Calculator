@@ -1,3 +1,6 @@
+#The outputs are clear and informative, showing the results in a user-friendly format.
+
+
 import math
 
 print("/////////////////////////////////////////////////////////////////////////////////////")
