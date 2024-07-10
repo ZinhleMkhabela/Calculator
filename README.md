@@ -28,4 +28,8 @@ Then the total amount needed to be repaid will display
 Then the system will display the "Exit system"
 
 
+#Screenshots
+![bond](https://github.com/Nkatekocecilmathebula/Calculator/assets/122616394/c5a315d2-affd-41d6-a3d7-fbdc366c9d25)
+![simple](https://github.com/Nkatekocecilmathebula/Calculator/assets/122616394/1fbc70a6-8f2c-47de-8efa-cb44dd76f1b1)
+![compund](https://github.com/Nkatekocecilmathebula/Calculator/assets/122616394/3d23ef0e-257d-4e0a-98f5-5fab60d2e62d)
 
